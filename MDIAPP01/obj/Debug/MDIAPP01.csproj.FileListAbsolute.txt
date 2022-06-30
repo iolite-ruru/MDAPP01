@@ -1,0 +1,12 @@
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\bin\Debug\MDIAPP01.exe.config
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\bin\Debug\MDIAPP01.exe
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\bin\Debug\MDIAPP01.pdb
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.csproj.AssemblyReference.cache
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.csproj.SuggestedBindingRedirects.cache
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.Form1.resources
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.Properties.Resources.resources
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.csproj.GenerateResource.cache
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.csproj.CoreCompileInputs.cache
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.exe
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.pdb
+C:\Users\KimSoYeon\source\repos\MDIAPP01\MDIAPP01\obj\Debug\MDIAPP01.CustomForm.resources
